@@ -262,7 +262,7 @@ kubectl get secret $(kubectl get serviceaccount demo -o jsonpath='{range .secret
 ```
 
 You can now login to Tigera EE
-You can check access to Openshift UI https://console-openshift-console.apps.philippe-oc43-demo.tigera-labs-emea.io  and find pwd ./auth/kubeadmin-password  and usn kubeadmin
+You can check access to Openshift UI https://console-openshift-console.apps.xxxxxxxx-oc43-demo.tigera-labs-emea.io  and find pwd ./auth/kubeadmin-password  and usn kubeadmin
 
 
 
